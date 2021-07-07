@@ -14745,4 +14745,4 @@ w1.luckyorange.com
 upload.luckyorange.net
 cs.luckyorange.net
 settings.luckyorange.net
-freshmarketer.com/
+freshmarketer.com
