@@ -530,6 +530,7 @@ adotsolution.com
 adotube.com
 adplatform.vrtcal.com
 adplex.co.kr
+adpmbtj.com
 adpone-d.openx.net
 adpush.goforandroid.com
 adpushsdk.goforandroid.com
@@ -2520,6 +2521,7 @@ click.union.ucweb.com
 click.virt.s10.exacttarget.com
 click.virt.s6.exacttarget.com
 click.virt.s7.exacttarget.com
+clickadsxxx.com
 clickfuse.com
 clicks.mobrand.net
 clickserve.dartsearch.net
@@ -4567,6 +4569,7 @@ lga-bh.contextweb.com
 lga-tr.contextweb.com
 lib.adnxs.com
 lib.vmweb.net
+libidgel.net
 libs.coremetrics.com
 libs.lavanetwork.net
 libs.outbrain.com
@@ -9798,6 +9801,7 @@ srepdata.usatoday.com
 srtb.msn.com
 srv.buysellads.com
 srv.dc-1.net
+srv.goadx.com
 srv.imonomy.com
 srv.pixel.parsely.com
 srv2.tusdk.com
@@ -11281,4 +11285,3 @@ zulily-d.openx.net
 zwaar.org
 zynga-d.openx.net
 zzhc.vnet.cn
-adpmbtj.com
