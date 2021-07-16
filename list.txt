@@ -2001,6 +2001,7 @@ boost.mobileposse.com
 bootstrap.upsight-api.com
 boredpanda-d.openx.net
 boston-d.openx.net
+boughtinvulnerablenothing.com
 boxoffice.urbanairship.com
 bp.adkmob.com
 br-1xbet.com
@@ -9008,6 +9009,7 @@ rhea.iad-03.braze.com
 rich.otherlevels.com
 richmedia.pushwoosh.com
 rightmoveanalytics.co.uk
+ringexpressbeach.com
 rj.baidu.com
 rlcdn.com
 rlog-api.under9.co
@@ -9026,6 +9028,7 @@ rotaban.ru
 rotanev.iad-03.braze.com
 roundrobin-log.agoop.net
 route.carambo.la
+rozamimo9za10.com
 rp.crasheye.cn
 rp.gwallet.com
 rpc-tapjoy-com-lb-1378811527.us-east-1.elb.amazonaws.com
@@ -9594,6 +9597,7 @@ showads-sg.pubmatic.com
 showads-sgc.pubmatic.com
 showads.pubmatic.com
 si.appnext.com
+sickmakes.com
 sift-campaign-creatives.sift.co
 signal-beacon.s-onetag.com
 signal-metrics-collector-beta.s-onetag.com
@@ -10473,6 +10477,7 @@ track.tiara.daum.net
 track.uc.cn
 track.viewdeos.com
 track.wesdk.co
+track.wg-aff.com
 track.zorkanetwork.com
 track1.aniview.com
 trackdat.pinsightmedia.com
@@ -11285,8 +11290,3 @@ zulily-d.openx.net
 zwaar.org
 zynga-d.openx.net
 zzhc.vnet.cn
-rozamimo9za10.com
-boughtinvulnerablenothing.com
-sickmakes.com
-track.wg-aff.com
-ringexpressbeach.com
