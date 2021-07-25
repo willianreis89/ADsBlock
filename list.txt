@@ -11294,3 +11294,5 @@ search.hearlevelsince.top
 *.mackeeperaffiliates.com
 client.adrunnr.com
 monstersclash.com
+cdn.cloudvideosa.com
+nrgbooster2.tilda.ws
