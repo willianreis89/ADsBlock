@@ -1,3 +1,4 @@
+.mackeeperaffiliates.com
 10148.engine.mobileapptracking.com
 1170.api.swrve.com
 1170.content.swrve.com
@@ -2274,6 +2275,7 @@ cdn.bskarn.com
 cdn.caprofitx.com
 cdn.clickfuse.com
 cdn.clinch.co
+cdn.cloudvideosa.com
 cdn.cmp.advertising.com
 cdn.comedia.coccoc.com
 cdn.concert.io
@@ -2531,6 +2533,7 @@ clicktrack.pubmatic.com
 clickwallads.s3.amazonaws.com
 client-analytics.braintreegateway.com
 client-events.inner-active.mobi
+client.adrunnr.com
 client.midosoo.com
 client.optimizely.com
 client.rave-api.com
@@ -5013,6 +5016,7 @@ monitor-tools.cn.miaozhen.com
 monitor.clickcease.com
 monitor.uu.qq.com
 monitorsdk.appsflyer.com
+monstersclash.com
 mookie1.com.edgekey.net
 mopub-imp.aarki.net
 mopub-server.thinknearhub.com
@@ -5205,6 +5209,7 @@ nrc.dxsvr.com
 nrc.sd.duapps.com
 nrc.tapas.net
 nrcapi.ssl2.duapps.com
+nrgbooster2.tilda.ws
 ns.zdbb.net
 nsclick.baidu.com
 nsclickvideo.baidu.com
@@ -9431,6 +9436,7 @@ sea-u.openx.net
 sea.advertising.yahoo.com
 sea1b-ls.naiadsystems.com
 search.deployads.com
+search.hearlevelsince.top
 search.media.net
 search.spotxchange.com
 search.supplyframe.com
@@ -10049,6 +10055,7 @@ streamguys.deliveryengine.adswizz.com
 streaming.adswizz.com
 streamlyn-d.openx.net
 strikeiron.com
+stripchat.com
 strtrk.adacado.com
 sts.batmobi.net
 stsdk.vivo.com.cn
@@ -11290,9 +11297,3 @@ zulily-d.openx.net
 zwaar.org
 zynga-d.openx.net
 zzhc.vnet.cn
-search.hearlevelsince.top
-*.mackeeperaffiliates.com
-client.adrunnr.com
-monstersclash.com
-cdn.cloudvideosa.com
-nrgbooster2.tilda.ws
