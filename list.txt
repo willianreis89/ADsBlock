@@ -11291,3 +11291,4 @@ zwaar.org
 zynga-d.openx.net
 zzhc.vnet.cn
 search.hearlevelsince.top
+*.mackeeperaffiliates.com
