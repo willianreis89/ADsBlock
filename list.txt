@@ -74,6 +74,7 @@
 31035.api.swrve.com
 31035.content.swrve.com
 3193.api.swrve.com
+am.pringral.com
 3243857.fls.doubleclick.net
 3285.api.swrve.com
 3285.content.swrve.com
