@@ -11303,3 +11303,5 @@ zzhc.vnet.cn
 pagead.googlesyndication.com
 g02.ign.com
 gamersbrains.com
+ads1.opensubtitles.org
+eltima.cleverbridge.com
