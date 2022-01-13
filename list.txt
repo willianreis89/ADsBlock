@@ -11315,3 +11315,4 @@ adclick.g.doubleclick.net
 data.mistat.xiaomi.com
 jrpkizae.com
 newsurvey.ebit.com.br
+internet-safe.com
