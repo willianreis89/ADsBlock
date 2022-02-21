@@ -11320,3 +11320,15 @@ br.betano.com
 placebonusextra.com
 successfullymade.com
 ak.lanopoon.net
+api.bugsnag.com
+app.bugsnag.com
+advertising.twitter.com
+widgets.pinterest.com
+d.reddit.com
+globalapi.ad.xiaomi.com
+metrics5.data.hicloud.com
+app.getsentry.com
+stats.wp.com
+analyticsengine.s3.amazonaws.com
+affiliationjs.s3.amazonaws.com
+advertising-api-eu.amazon.com
