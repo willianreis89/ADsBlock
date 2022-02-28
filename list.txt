@@ -54,6 +54,7 @@ reconsiderallowinggunfire.com
 2359.content.swrve.com
 2405.api.swrve.com
 2405.content.swrve.com
+projetosespeciais.olx.com.br
 247realmedia.com
 2578.api.swrve.com
 2578.content.swrve.com
