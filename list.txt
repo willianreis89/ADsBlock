@@ -204,6 +204,7 @@ a.bitmango.com
 a.c.appier.net
 a.dpmsrv.com
 a.et.nytimes.com
+adpmbtj.com
 a.fiksu.com
 a.idio.co
 a.ligatus.com
