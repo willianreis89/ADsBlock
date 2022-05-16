@@ -10405,6 +10405,10 @@ tnc16-alisg.isnssdk.com
 tnc16-useast1a.isnssdk.com
 tnkfactory.com
 tns.simba.taobao.com
+t.neighborhoodsluts.com
+rvklk.marveliousdates.com
+cdn.bncloudfl.com
+afgtrwd1.com
 token.rubiconproject.com
 tools.3g.qq.com
 topapps-func.pinsightmedia.com
@@ -11335,5 +11339,3 @@ analyticsengine.s3.amazonaws.com
 affiliationjs.s3.amazonaws.com
 advertising-api-eu.amazon.com
 click-west.acuityplatform.com
-t.neighborhoodsluts.com
-rvklk.marveliousdates.com
