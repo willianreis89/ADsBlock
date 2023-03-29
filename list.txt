@@ -455,6 +455,7 @@ adcel.vrvm.com
 adcfg.intowow.com
 adconf.rqmob.com
 adcs.rqmob.com
+adclick.g.doubleclick.net
 addapptr.com
 addelivery-engine-api.voodoo-ads.io
 addkt-d.openx.net
