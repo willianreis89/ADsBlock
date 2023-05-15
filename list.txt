@@ -5,6 +5,7 @@ cdn-test.mouseflow.com
 adm.hotjar.com
 identify.hotjar.com
 insights.hotjar.com
+adclick.g.doubleclick.net
 script.hotjar.com
 surveys.hotjar.com
 careers.hotjar.com
