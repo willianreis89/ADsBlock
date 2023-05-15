@@ -1,3 +1,4 @@
+unex.edu.br
 mouseflow.com
 api.mouseflow.com
 tools.mouseflow.com
