@@ -11,6 +11,7 @@ script.hotjar.com
 surveys.hotjar.com
 careers.hotjar.com
 ads.linkedin.com
+camsoda.com
 log.byteoversea.com
 ads.yahoo.com
 analytics.yahoo.com
