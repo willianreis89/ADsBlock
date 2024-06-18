@@ -11446,3 +11446,4 @@ advertising.apple.com
 phx.creativecdn.com
 s0.2mdn.net
 landing.spicevids.com
+.2mdn.net
