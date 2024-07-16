@@ -11451,3 +11451,4 @@ landing.spicevids.com
 .2mdn.net
 .xyz
 google-bidout-d.openx.net
+core.yads.tech
