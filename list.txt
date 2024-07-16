@@ -11452,3 +11452,4 @@ landing.spicevids.com
 .xyz
 google-bidout-d.openx.net
 core.yads.tech
+.safeframe.googlesyndication.com
