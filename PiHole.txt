@@ -11468,3 +11468,5 @@
 0.0.0.0 logservice1.hicloud.com
 0.0.0.0 logbak.hicloud.com
 0.0.0.0 weather-analytics-events.apple.com
+0.0.0.0 beyourxfriend.com
+0.0.0.0 papoaolado.com.br
