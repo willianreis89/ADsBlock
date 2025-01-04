@@ -11469,4 +11469,4 @@
 0.0.0.0 logbak.hicloud.com
 0.0.0.0 weather-analytics-events.apple.com
 0.0.0.0 beyourxfriend.com
-0.0.0.0 papoaolado.com.br
+0.0.0.0 www.papoaolado.com.br
