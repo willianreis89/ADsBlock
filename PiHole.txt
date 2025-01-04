@@ -11455,3 +11455,16 @@
 0.0.0.0 .safeframe.googlesyndication.com
 0.0.0.0 promos.camsoda.com
 0.0.0.0 tgp1.brazzersnetwork.com
+0.0.0.0 afs.googlesyndication.com
+0.0.0.0 mediavisor.doubleclick.net
+0.0.0.0 claritybt.freshmarketer.com
+0.0.0.0 fwtracks.freshmarketer.com
+0.0.0.0 api.luckyorange.com
+0.0.0.0 realtime.luckyorange.com
+0.0.0.0 events.reddit.com
+0.0.0.0 extmaps-api.yandex.net
+0.0.0.0 offerwall.yandex.net
+0.0.0.0 logservice.hicloud.com
+0.0.0.0 logservice1.hicloud.com
+0.0.0.0 logbak.hicloud.com
+0.0.0.0 weather-analytics-events.apple.com
