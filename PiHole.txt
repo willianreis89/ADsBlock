@@ -11479,3 +11479,4 @@
 0.0.0.0 bateu.bet.br
 0.0.0.0 stake.bet.br
 0.0.0.0 www.betsson.bet.br
+0.0.0.0 ikeanangelsaidthe.com
