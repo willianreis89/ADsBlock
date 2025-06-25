@@ -7,8 +7,8 @@
 0.0.0.0 identify.hotjar.com
 0.0.0.0 insights.hotjar.com
 0.0.0.0 adclick.g.doubleclick.net
-0.0.0.0 .adclick.g.doubleclick.net
-0.0.0.0 .g.doubleclick.net
+0.0.0.0 adclick.g.doubleclick.net
+0.0.0.0 g.doubleclick.net
 0.0.0.0 script.hotjar.com
 0.0.0.0 surveys.hotjar.com
 0.0.0.0 careers.hotjar.com
@@ -44,7 +44,7 @@
 0.0.0.0 weather-analytics-events.apple.com
 0.0.0.0 notes-analytics-events.apple.com
 0.0.0.0 samsung-com.112.2o7.net
-0.0.0.0 .mackeeperaffiliates.com
+0.0.0.0 mackeeperaffiliates.com
 0.0.0.0 luckyforbet.com
 0.0.0.0 10148.engine.mobileapptracking.com
 0.0.0.0 1170.api.swrve.com
@@ -11448,8 +11448,8 @@
 0.0.0.0 phx.creativecdn.com
 0.0.0.0 s0.2mdn.net
 0.0.0.0 landing.spicevids.com
-0.0.0.0 .2mdn.net
-0.0.0.0 .xyz
+0.0.0.0 2mdn.net
+0.0.0.0 xyz
 0.0.0.0 google-bidout-d.openx.net
 0.0.0.0 core.yads.tech
 0.0.0.0 .safeframe.googlesyndication.com
