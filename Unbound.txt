@@ -19,7 +19,7 @@
 # SAFE identifica somente a secao LG; nao e garantia para toda a lista.
 # Arquivo para Blocklists do OPNsense; nao incluir diretamente em unbound.conf.
 
-# === 01 - BASE GERAL / PiHole.txt (11421 dominios) ===
+# === 01 - BASE GERAL (11422 dominios) ===
 10148.engine.mobileapptracking.com
 1170.api.swrve.com
 1170.content.swrve.com
@@ -9663,6 +9663,7 @@ services.xg4ken.com
 serving-sys.com
 serving-sys.com.edgekey.net
 serving.ad.org.vn
+sessions.bugsnag.com
 sessionapi.veinteractive.com
 sessionapihk.veinteractive.com
 sessionm.com
